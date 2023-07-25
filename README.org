@@ -1,0 +1,10 @@
+* cl-maxminddb
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/turtle-bazon/cl-maxminddb.git   |
+| commit  | e97a74d  |
+| systems | cl-maxminddb |
+|---------+-------------------------------------------|
+
